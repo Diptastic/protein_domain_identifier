@@ -1,0 +1,12 @@
+Results are saved in the `reports/` folder by default.
+
+## Extending the Tool
+
+You can add more domain patterns in `lib/ProteinDomainIdentifier.pm` or integrate with domain databases.
+
+---
+
+## License
+
+MIT License
+
